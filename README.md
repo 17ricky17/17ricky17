@@ -1,16 +1,112 @@
-## Hi there 👋
+# Riccardo Barbieri 👨‍💻
 
-<!--
-**17ricky17/17ricky17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  ![Cybersecurity Analyst](https://img.shields.io/badge/Cybersecurity-Analyst-blue?style=for-the-badge&logo=shield&logoColor=white)
+  ![Incident Management](https://img.shields.io/badge/Incident-Management-red?style=for-the-badge&logo=shieldsdotio&logoColor=white)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-barbieri1702)
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/17ricky17)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About me
+
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtbTJ1MWs3Y2N0ZnU4cGsycWd5b3Azdjg5YmRlbDl0b2NlbWx5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
+
+🔐 Passionate about computer security and cybersecurity specialist with a focus on **Red & Blue Team**.
+
+🛡️ Experience in vulnerability analysis, penetration testing and incident management using **Metasploit**, **Nmap**, **Wireshark** and **Kali Linux** tools.
+
+🚀 Developer of AI-based solutions with **React/Node.js** stack. I implement architectures with a focus on end-to-end security and protection against **XSS/CSRF** attacks.
+
+🔍 Certified by **4Geeks Academy** as a Cybersecurity Specialist, with additional training in **Red & Blue Team**.
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+  
+  ### 🔒 Security Tools
+  ![Metasploit](https://img.shields.io/badge/-Metasploit-brightgreen?style=flat-square&logo=metasploit&logoColor=white)
+  ![Nmap](https://img.shields.io/badge/-Nmap-orange?style=flat-square&logo=nmap&logoColor=white)
+  ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+  ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6347?style=flat-square&logo=burp-suite&logoColor=white)
+  ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+  ![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+  ![SIEM](https://img.shields.io/badge/-SIEM-2F4F4F?style=flat-square&logo=elastic&logoColor=white)
+  ![Wazuh](https://img.shields.io/badge/-Wazuh-1EAE72?style=flat-square&logo=wazuh&logoColor=white)
+  
+  ### 💻 Development
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+  ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
+  ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+  
+  ### ⚙️ Systems & Networking
+  ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+  ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+  ![SSH](https://img.shields.io/badge/-SSH-4D4D4D?style=flat-square&logo=ssh&logoColor=white)
+  ![FTP](https://img.shields.io/badge/-FTP-5A595A?style=flat-square&logo=ftp&logoColor=white)
+  
+  ### 📜 Standards & Regulations
+  ![ISO 27001](https://img.shields.io/badge/-ISO_27001-2F4F4F?style=flat-square&logo=iso&logoColor=white)
+  ![GDPR](https://img.shields.io/badge/-GDPR-3E4095?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyLDIuQTEwLDEwLDAsMSwwLDIyLDEyLDEwLDEwLDAsMCwwLDEyLDJabTEsMTVIMTFWMTFoMlptMC04SDExVjdoMloiIGZpbGw9IiNmZmYiLz48L3N2Zz4=&logoColor=white)
+  ![NIST](https://img.shields.io/badge/-NIST-0B3D91?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyLDIuQTEwLDEwLDAsMSwwLDIyLDEyLDEwLDEwLDAsMCwwLDEyLDJabTEsMTVIMTFWMTFoMlptMC04SDExVjdoMloiIGZpbGw9IiNmZmYiLz48L3N2Zz4=&logoColor=white)
+
+</div>
+
+## 🚀 Featured Projects
+
+### 🤖 AI-INTERVIEW
+*An interactive platform that automates technical interviews using artificial intelligence, analyzing text and voice responses in real-time*
+
+- 🧠 Developed an AI-based automated interview platform that analyzes text and voice responses in real-time
+- 🔒 Implemented secure mechanisms for managing sensitive user data and protecting API communications
+- 👁️ Integrated real-time emotion analysis systems through computer vision, with a focus on privacy
+- 🛡️ Modular architecture with emphasis on end-to-end security
+- 💻 **Tech Stack**: JavaScript, React, Node.js, MongoDB, JWT, WebRTC, OpenAI API, TailwindCSS
+
+### 🔍 Vulnerability Analysis and Incident Response
+*Security project focused on vulnerability detection and mitigation*
+
+- 🔐 Control and exploitation of misconfigured FTP services using Metasploit
+- 📊 Implementation of SIEM systems for centralized event monitoring
+- 🔎 Vulnerability analysis using Nmap, Wireshark and Kali Linux tools
+- 🧩 Implementation of ISO 27001
+
+## 📚 Certifications
+
+- 🔰 **Cybersecurity Specialist** - 4Geeks Academy (2025)
+- 🛡️ **Security Fast Forward, Red & Blue Team** - ONSTAIRS (2021)
+- 🖥️ **OS Administration, HW/SW Configuration** - ATON INFORMÁTICA
+
+## 🌐 Languages
+
+- 🇮🇹 Italian: Native
+- 🇪🇸 Spanish: Proficient
+- 🇬🇧 English: Advanced
+
+## 📫 Connect with me
+
+<div align="center">
+  
+  [![Email](https://img.shields.io/badge/Email-riccardobarbieri.1702@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riccardobarbieri.1702@gmail.com)
+  [![Phone](https://img.shields.io/badge/Phone-647622703-0077B5?style=for-the-badge&logo=phone&logoColor=white)](tel:+34647622703)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-riccardo--barbieri1702-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-barbieri1702)
+  [![GitHub](https://img.shields.io/badge/GitHub-17ricky17-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/17ricky17)
+
+</div>
+
+---
+
+<div align="center">
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=17ricky17&show_icons=true&theme=radical)
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=17ricky17&theme=nord&column=7" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=17ricky17&theme=dark" />
+  
+</div>
