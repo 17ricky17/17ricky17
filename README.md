@@ -11,15 +11,15 @@
 
 ## 👨‍💻 About me
 
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNiOWVjNmExNGUzNmM5OGQ5Y2I1NzFhNGJkZTZhZjJlYzJhMDFlZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPEqDGUULpEU0aQ/giphy.gif" />
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmExdmo2Z21vbXhvNG91a3Bwc3Q2Y2JqbjBmZXVtN21vOG5yNDFqMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/JqmupuTVZYaQX5s094/giphy.gif" />
 
 🔐 Passionate about computer security and cybersecurity specialist with a focus on **Red & Blue Team**.
 
 🛡️ Experience in vulnerability analysis, penetration testing and incident management using **Metasploit**, **Nmap**, **Wireshark** and **Kali Linux** tools.
 
-🚀 Developer of AI-based solutions with **React/Node.js** stack. I implement architectures with a focus on end-to-end security and protection against **XSS/CSRF** attacks.
-
 🔍 Certified by **4Geeks Academy** as a Cybersecurity Specialist, with additional training in **Red & Blue Team**.
+
+🧩 Focused on implementing cybersecurity best practices and ISO 27001 standards to protect critical infrastructure.
 
 ## 🛠️ Tech Stack & Tools
 
@@ -34,15 +34,6 @@
   ![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
   ![SIEM](https://img.shields.io/badge/-SIEM-2F4F4F?style=flat-square&logo=elastic&logoColor=white)
   ![Wazuh](https://img.shields.io/badge/-Wazuh-1EAE72?style=flat-square&logo=wazuh&logoColor=white)
-  
-  ### 💻 Development
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white)
-  ![WebRTC](https://img.shields.io/badge/-WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
   
   ### ⚙️ Systems & Networking
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -59,15 +50,6 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 AI-INTERVIEW
-*An interactive platform that automates technical interviews using artificial intelligence, analyzing text and voice responses in real-time*
-
-- 🧠 Developed an AI-based automated interview platform that analyzes text and voice responses in real-time
-- 🔒 Implemented secure mechanisms for managing sensitive user data and protecting API communications
-- 👁️ Integrated real-time emotion analysis systems through computer vision, with a focus on privacy
-- 🛡️ Modular architecture with emphasis on end-to-end security
-- 💻 **Tech Stack**: JavaScript, React, Node.js, MongoDB, JWT, WebRTC, OpenAI API, TailwindCSS
-
 ### 🔍 Vulnerability Analysis and Incident Response
 *Security project focused on vulnerability detection and mitigation*
 
@@ -75,6 +57,21 @@
 - 📊 Implementation of SIEM systems for centralized event monitoring
 - 🔎 Vulnerability analysis using Nmap, Wireshark and Kali Linux tools
 - 🧩 Implementation of ISO 27001
+- 🛡️ Configuration of firewalls and IDS/IPS to prevent unauthorized access
+- 🔬 Forensic analysis of compromised systems and detailed documentation of evidence
+- 📝 Development of incident response plans
+- 🔒 Implementation of DLP solutions to protect sensitive academic data
+
+## 🚀 Additional Projects
+
+### 🤖 AI-INTERVIEW
+*An interactive platform that automates technical interviews using artificial intelligence, analyzing text and voice responses in real-time*
+
+- 🧠 Developed an AI-based automated interview platform that analyzes text and voice responses in real-time
+- 🔒 Implemented secure mechanisms for managing sensitive user data and protecting API communications
+- 👁️ Integrated real-time emotion analysis systems through computer vision, with a focus on privacy
+- 🛡️ Modular architecture with emphasis on end-to-end security and protection against XSS/CSRF attacks
+- 💻 **Tech Stack**: JavaScript-React, Node.js, MongoDB, JWT, WebRTC, OpenAI API, TailwindCSS
 
 ## 📚 Certifications
 
