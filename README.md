@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About me
 
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtbTJ1MWs3Y2N0ZnU4cGsycWd5b3Azdjg5YmRlbDl0b2NlbWx5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNiOWVjNmExNGUzNmM5OGQ5Y2I1NzFhNGJkZTZhZjJlYzJhMDFlZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPEqDGUULpEU0aQ/giphy.gif" />
 
 🔐 Passionate about computer security and cybersecurity specialist with a focus on **Red & Blue Team**.
 
@@ -93,20 +93,7 @@
 <div align="center">
   
   [![Email](https://img.shields.io/badge/Email-riccardobarbieri.1702@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riccardobarbieri.1702@gmail.com)
-  [![Phone](https://img.shields.io/badge/Phone-647622703-0077B5?style=for-the-badge&logo=phone&logoColor=white)](tel:+34647622703)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-riccardo--barbieri1702-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-barbieri1702)
   [![GitHub](https://img.shields.io/badge/GitHub-17ricky17-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/17ricky17)
 
-</div>
-
----
-
-<div align="center">
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=17ricky17&show_icons=true&theme=radical)
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=17ricky17&theme=nord&column=7" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=17ricky17&theme=dark" />
-  
 </div>
