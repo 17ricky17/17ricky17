@@ -75,9 +75,9 @@
 
 ## 📚 Certifications
 
-- 🔰 **Cybersecurity Specialist** - 4Geeks Academy (2025)
+- 🔰 **Cybersecurity Analyst** - 4Geeks Academy (2025)
 - 🛡️ **Security Fast Forward, Red & Blue Team** - ONSTAIRS (2021)
-- 🖥️ **OS Administration, HW/SW Configuration** - ATON INFORMÁTICA
+- 🖥️ **OS Administration, HW/SW Configuration** - ATON INFORMÁTICA (2020)
 
 ## 🌐 Languages
 
