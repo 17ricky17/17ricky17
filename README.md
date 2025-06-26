@@ -1,7 +1,9 @@
 # Riccardo Barbieri 👨‍💻
 
 <div align="center">
-  
+
+  <img src="https://tryhackme-badges.s3.amazonaws.com/17ricky17.png" alt="TryHackMe Badge" width="250"/>
+
   ![Cybersecurity Analyst](https://img.shields.io/badge/Cybersecurity-Analyst-blue?style=for-the-badge&logo=shield&logoColor=white)
   ![Incident Management](https://img.shields.io/badge/Incident-Management-red?style=for-the-badge&logo=shieldsdotio&logoColor=white)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-barbieri1702)
@@ -53,44 +55,44 @@
 ### 🔍 Vulnerability Analysis and Incident Response
 *Security project focused on vulnerability detection and mitigation*
 
-- 🔐 Control and exploitation of misconfigured FTP services using Metasploit
-- 📊 Implementation of SIEM systems for centralized event monitoring
-- 🔎 Vulnerability analysis using Nmap, Wireshark and Kali Linux tools
-- 🧩 Implementation of ISO 27001
-- 🛡️ Configuration of firewalls and IDS/IPS to prevent unauthorized access
-- 🔬 Forensic analysis of compromised systems and detailed documentation of evidence
-- 📝 Development of incident response plans
-- 🔒 Implementation of DLP solutions to protect sensitive academic data
+- 🔐 Control and exploitation of misconfigured FTP services using Metasploit  
+- 📊 Implementation of SIEM systems for centralized event monitoring  
+- 🔎 Vulnerability analysis using Nmap, Wireshark and Kali Linux tools  
+- 🧩 Implementation of ISO 27001  
+- 🛡️ Configuration of firewalls and IDS/IPS to prevent unauthorized access  
+- 🔬 Forensic analysis of compromised systems and detailed documentation of evidence  
+- 📝 Development of incident response plans  
+- 🔒 Implementation of DLP solutions to protect sensitive academic data  
 
 ## 🚀 Additional Projects
 
 ### 🤖 AI-INTERVIEW
 *An interactive platform that automates technical interviews using artificial intelligence, analyzing text and voice responses in real-time*
 
-- 🧠 Developed an AI-based automated interview platform that analyzes text and voice responses in real-time
-- 🔒 Implemented secure mechanisms for managing sensitive user data and protecting API communications
-- 👁️ Integrated real-time emotion analysis systems through computer vision, with a focus on privacy
-- 🛡️ Modular architecture with emphasis on end-to-end security and protection against XSS/CSRF attacks
-- 💻 **Tech Stack**: JavaScript-React, Node.js, MongoDB, JWT, WebRTC, OpenAI API, TailwindCSS
+- 🧠 Developed an AI-based automated interview platform that analyzes text and voice responses in real-time  
+- 🔒 Implemented secure mechanisms for managing sensitive user data and protecting API communications  
+- 👁️ Integrated real-time emotion analysis systems through computer vision, with a focus on privacy  
+- 🛡️ Modular architecture with emphasis on end-to-end security and protection against XSS/CSRF attacks  
+- 💻 **Tech Stack**: JavaScript-React, Node.js, MongoDB, JWT, WebRTC, OpenAI API, TailwindCSS  
 
 ## 📚 Certifications
 
-- 🔰 **Cybersecurity Analyst** - 4Geeks Academy (2025)
-- 🛡️ **Security Fast Forward, Red & Blue Team** - ONSTAIRS (2021)
-- 🖥️ **OS Administration, HW/SW Configuration** - ATON INFORMÁTICA (2020)
+- 🔰 **Cybersecurity Analyst** - 4Geeks Academy (2025)  
+- 🛡️ **Security Fast Forward, Red & Blue Team** - ONSTAIRS (2021)  
+- 🖥️ **OS Administration, HW/SW Configuration** - ATON INFORMÁTICA (2020)  
 
 ## 🌐 Languages
 
-- 🇮🇹 Italian: Native
-- 🇪🇸 Spanish: Proficient
-- 🇬🇧 English: Advanced
+- 🇮🇹 Italian: Native  
+- 🇪🇸 Spanish: Proficient  
+- 🇬🇧 English: Advanced  
 
 ## 📫 Connect with me
 
 <div align="center">
-  
-  [![Email](https://img.shields.io/badge/Email-riccardobarbieri.1702@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riccardobarbieri.1702@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-riccardo--barbieri1702-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-barbieri1702)
+
+  [![Email](https://img.shields.io/badge/Email-riccardobarbieri.1702@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riccardobarbieri.1702@gmail.com)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-riccardo--barbieri1702-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-barbieri1702)  
   [![GitHub](https://img.shields.io/badge/GitHub-17ricky17-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/17ricky17)
 
 </div>
