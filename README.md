@@ -2,7 +2,8 @@
 
 <div align="center">
 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/17ricky17.png" alt="TryHackMe Badge" width="250"/>
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3858985" style='border:none;'></iframe>
+
 
   ![Cybersecurity Analyst](https://img.shields.io/badge/Cybersecurity-Analyst-blue?style=for-the-badge&logo=shield&logoColor=white)
   ![Incident Management](https://img.shields.io/badge/Incident-Management-red?style=for-the-badge&logo=shieldsdotio&logoColor=white)
