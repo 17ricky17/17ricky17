@@ -5,6 +5,7 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/17ricky17.png" alt="Your Image Badge" />
 
 
+
   ![Cybersecurity Analyst](https://img.shields.io/badge/Cybersecurity-Analyst-blue?style=for-the-badge&logo=shield&logoColor=white)
   ![Incident Management](https://img.shields.io/badge/Incident-Management-red?style=for-the-badge&logo=shieldsdotio&logoColor=white)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardo-barbieri1702)
