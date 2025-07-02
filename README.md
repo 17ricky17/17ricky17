@@ -3,13 +3,14 @@
 <div align="center">
 
   <iframe 
-  src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3858985" 
-  style="border:none; width:300px; height:150px;" 
-  frameborder="0" 
-  scrolling="no"
-></iframe>
+    src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3858985" 
+    style="border:none; width:300px; height:150px;" 
+    frameborder="0" 
+    scrolling="no"
+    title="TryHackMe Badge - Riccardo Barbieri"
+  ></iframe>
 
-
+  <br/>
 
   ![Cybersecurity Analyst](https://img.shields.io/badge/Cybersecurity-Analyst-blue?style=for-the-badge&logo=shield&logoColor=white)
   ![Incident Management](https://img.shields.io/badge/Incident-Management-red?style=for-the-badge&logo=shieldsdotio&logoColor=white)
@@ -20,7 +21,7 @@
 
 ## 👨‍💻 About me
 
-<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmExdmo2Z21vbXhvNG91a3Bwc3Q2Y2JqbjBmZXVtN21vOG5yNDFqMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/JqmupuTVZYaQX5s094/giphy.gif" />
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmExdmo2Z21vbXhvNG91a3Bwc3Q2Y2JqbjBmZXVtN21vOG5yNDFqMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/JqmupuTVZYaQX5s094/giphy.gif" alt="Cybersecurity GIF" />
 
 🔐 Passionate about computer security and cybersecurity specialist with a focus on **Red & Blue Team**.
 
@@ -34,7 +35,7 @@
 
 <div align="center">
   
-  ### 🔒 Security Tools
+  ### 🔒 Security Tools  
   ![Metasploit](https://img.shields.io/badge/-Metasploit-brightgreen?style=flat-square&logo=metasploit&logoColor=white)
   ![Nmap](https://img.shields.io/badge/-Nmap-orange?style=flat-square&logo=nmap&logoColor=white)
   ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
@@ -44,13 +45,13 @@
   ![SIEM](https://img.shields.io/badge/-SIEM-2F4F4F?style=flat-square&logo=elastic&logoColor=white)
   ![Wazuh](https://img.shields.io/badge/-Wazuh-1EAE72?style=flat-square&logo=wazuh&logoColor=white)
   
-  ### ⚙️ Systems & Networking
+  ### ⚙️ Systems & Networking  
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
   ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
   ![SSH](https://img.shields.io/badge/-SSH-4D4D4D?style=flat-square&logo=ssh&logoColor=white)
   ![FTP](https://img.shields.io/badge/-FTP-5A595A?style=flat-square&logo=ftp&logoColor=white)
   
-  ### 📜 Standards & Regulations
+  ### 📜 Standards & Regulations  
   ![ISO 27001](https://img.shields.io/badge/-ISO_27001-2F4F4F?style=flat-square&logo=iso&logoColor=white)
   ![GDPR](https://img.shields.io/badge/-GDPR-3E4095?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyLDIuQTEwLDEwLDAsMSwwLDIyLDEyLDEwLDEwLDAsMCwwLDEyLDJabTEsMTVIMTFWMTFoMlptMC04SDExVjdoMloiIGZpbGw9IiNmZmYiLz48L3N2Zz4=&logoColor=white)
   ![NIST](https://img.shields.io/badge/-NIST-0B3D91?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyLDIuQTEwLDEwLDAsMSwwLDIyLDEyLDEwLDEwLDAsMCwwLDEyLDJabTEsMTVIMTFWMTFoMlptMC04SDExVjdoMloiIGZpbGw9IiNmZmYiLz48L3N2Zz4=&logoColor=white)
@@ -59,7 +60,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔍 Vulnerability Analysis and Incident Response
+### 🔍 Vulnerability Analysis and Incident Response  
 *Security project focused on vulnerability detection and mitigation*
 
 - 🔐 Control and exploitation of misconfigured FTP services using Metasploit  
@@ -73,7 +74,7 @@
 
 ## 🚀 Additional Projects
 
-### 🤖 AI-INTERVIEW
+### 🤖 AI-INTERVIEW  
 *An interactive platform that automates technical interviews using artificial intelligence, analyzing text and voice responses in real-time*
 
 - 🧠 Developed an AI-based automated interview platform that analyzes text and voice responses in real-time  
