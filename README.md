@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3858985" style='border:none;'></iframe>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/17ricky17.png" alt="Your Image Badge" />
 
 
   ![Cybersecurity Analyst](https://img.shields.io/badge/Cybersecurity-Analyst-blue?style=for-the-badge&logo=shield&logoColor=white)
